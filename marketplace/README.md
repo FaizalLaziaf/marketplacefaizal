@@ -7,6 +7,6 @@ memasukkan ke keranjang, dan membuat pesanan yang tersimpan di database.
 1. Buat database MySQL, lalu impor `database/marketplace.sql` lewat phpMyAdmin.
 2. Salin `config/config.sample.php` menjadi `config/config.php`, isi host/user/password/nama database.
 3. Unggah semua file ke folder `htdocs` hosting (InfinityFree). Pastikan folder `uploads/` dapat ditulis.
-4. Buka situs. Akun contoh (password `password123`): `penjual@contoh.test`, `pembeli@contoh.test`.
+4. REST API
 
 `config/config.php` ada di `.gitignore` agar kredensial tidak masuk repository.
