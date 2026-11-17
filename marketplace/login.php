@@ -23,6 +23,6 @@ include __DIR__ . '/includes/header.php';
   <div class="mb-3"><label class="form-label">Password</label><input type="password" name="password" class="form-control" required></div>
   <button class="btn btn-primary w-100">Masuk</button>
 </form>
-<p class="small text-muted mt-3 mb-0">Akun contoh: pembeli@contoh.test / penjual@contoh.test (password: password123)</p>
+<p class="small text-muted mt-3 mb-0"></p>
 </div></div></div></div>
 <?php include __DIR__ . '/includes/footer.php'; ?>
